@@ -1,5 +1,3 @@
-برنامه آب و هوا ، که با وارد کردن شهر مورد نظر آب و هوا آن را نشان میدهد و دارای تاریخ و ساعت حال را نشان میدهد
-و تصویر زمینه با توجه به آب و هوای شهر وارد شده تغییر میکند...
-این برنامه با استفاده از ابزار ریداکس Redux انجام شده است.
+The weather app, which shows the weather by entering the desired city and shows the current date and time, and the background image changes according to the weather of the entered city... This app uses Redux is done
 ![11](https://github.com/sadeqran/Panel-Admin/assets/109485162/d06596ca-55b1-4eaa-83f5-07221df89b24)
 ![12](https://github.com/sadeqran/Panel-Admin/assets/109485162/f7ce6c3d-3482-4baf-9f87-ef448141150a)
